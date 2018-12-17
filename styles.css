@@ -1,0 +1,84 @@
+
+
+body {
+  background-color: #B1B1F0;
+  color: #4D4D60;
+}
+p {line-height: 100px;}
+
+.congrats {
+  text-align: center;
+  font-size: 4em;
+  font-weight: 600;
+}
+
+.invisible {
+  font-size: 3em;
+  height: 100px;
+  width: 100px;
+  padding-left: 8px;
+  margin: 5px;
+  color: lightblue;
+  background: lightblue;
+  border-radius: 5px;
+  display: inline-block;
+  border: 1px solid transparent;
+}
+
+.show {
+  color: #000;
+  background-color: #76CE82;
+  font-size: 3em;
+  height: 100px;
+  width: 100px;
+  padding-left: 8px;
+  margin: 5px;
+  border-radius: 5px;
+  display: inline-block;
+  border: 1px solid transparent;
+}
+
+.section, .form {
+  text-align: center;
+  padding-top: 50px;
+}
+
+#theDiv {
+
+  text-align: center;
+  margin-top: 50px;
+}
+
+button {
+  height: 100px;
+  width: 100px;
+  margin: 6px;
+  border: 1px solid transparent;
+  padding: .5rem 1rem;
+  font-size: 40px;
+  background-color: coral;
+  border-radius: 5px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+h3 {
+  text-align: center;
+}
+ul {
+  text-align: center;
+  padding-left: 0;
+}
+li {
+  list-style-type: none;
+  padding-bottom: 5px;
+}
+
+.chosen {
+  background: #445069;
+  border-radius: 5px;
+  font-size: 20px;
+  color: #FFFFFF;
+}
